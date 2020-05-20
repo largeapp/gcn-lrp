@@ -8,4 +8,4 @@ See the following publications for examples of this code in use:
 [gcn_lrp.py](gcn_lrp.py) is the Python code of GCN_LRP method.  
 [lrp_summary_test.py](lrp_summary_test.py) is the Python code of a GCN_LRP example.  
 
-### Experiment results
+
